@@ -1,0 +1,5 @@
+Kaggle:
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+Google Drive:
+https://drive.google.com/drive/folders/1LIKIjQp812eJTW2ZPnRhnZaFN9srvf9p?usp=drive_link
